@@ -37,4 +37,4 @@ Started working on August 19, 2023
 22/4/24, 24.16.1, got my friend to make some music, added main menu, changed the thumbnail
 23/4/24, 24.16.2, updated the pause menu
 24/4/24, 24.16.3, added more buttons to the main menu, 'Ancient Artifact2' is now 'Ancient Artifact', fixed a bug in going back to the next song, replaced the water tile with a realistic one, bubbles now pop where the air starts instead where the water tile starts, fixed a bug where the amount of oxygen you have is doubled
-
+29/4/24, 24.17.1, changed oxygen system, started working on making looped songs work
