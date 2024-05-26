@@ -39,4 +39,5 @@ Started working on August 19, 2023
 24/4/24, 24.16.3, added more buttons to the main menu, 'Ancient Artifact2' is now 'Ancient Artifact', fixed a bug in going back to the next song, replaced the water tile with a realistic one, bubbles now pop where the air starts instead where the water tile starts, fixed a bug where the amount of oxygen you have is doubled
 29/4/24, 24.17.1, changed oxygen system, started working on making looped songs work
 4/5/24, 24/17.2, added sand tileset, replaced most rock tiles with corresponding sand tiles
-9/5/24, 24.18.2, added some inventory features
+9/5/24, 24.18.2, added some inventory features, like inventory sorting
+26/5/24, 24.20.1, redesigned the GUI
