@@ -42,3 +42,4 @@ Started working on August 19, 2023
 9/5/24, 24.18.2, added some inventory features, like inventory sorting
 26/5/24, 24.20.1, redesigned the GUI
 27/5/24, 24.21.1, fixed some bugs causing extreme lag, worked on making entity creation easier
+28/5/24, 24.21.2, changed some scripts for the GUI to make the rendering smoother
