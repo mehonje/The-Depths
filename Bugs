@@ -1,0 +1,12 @@
+Terrain Generation Bugged
+  Terrain generation might be bugged in Turbowarp
+  Unable to fix
+Terrain Generation Bugged
+  If the green flag isn't double-clicked, terrain generation might be bugged
+  Fixed - The creation of the terrain was only for one tile
+Doubled Oxygen
+  When you die, the oxygen you have might be doubled
+  Fixed - Wrong variable
+Crafting glass gives metal
+  Crafting glass crafts metal instead
+  Fixed - The glass and metal textures look similar
