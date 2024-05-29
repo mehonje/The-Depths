@@ -1,6 +1,6 @@
 Terrain Generation Bugged
   Terrain generation might be bugged in Turbowarp
-  Unable to fix
+  Unable to fix, Uncommon
 Terrain Generation Bugged
   If the green flag isn't double-clicked, terrain generation might be bugged
   Fixed - The creation of the terrain was only for one tile
@@ -10,6 +10,9 @@ Doubled Oxygen
 Crafting glass gives metal
   Crafting glass crafts metal instead
   Fixed - The glass and metal textures look similar
-Spawn in world
+Spawn in World
   When the game starts, you might spawn in the rock tiles of the world
   Fixed - Scripts setting the spawn coordinates run before the world size is set
+Infinite Glow Pods
+  When you craft with glow pods, the glow pods won't be used
+  Fixed - I changed the name of glow pods in the game from "glow pod" to "GLOW_POD"
