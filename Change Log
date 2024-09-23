@@ -44,3 +44,5 @@ Started working on August 19, 2023
 27/5/24, 24.21.1, fixed some bugs causing extreme lag, worked on making entity creation easier
 28/5/24, 24.21.2, changed some scripts for the GUI to make the rendering smoother, changed the script for the bubbles to run faster
 14/7/24, 24.27.1, started updating the fish ai
+16/7/24, 24.37.1, started working on v2 engine
+18/9/24, 24.37.1, added collision to v2 engine
