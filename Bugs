@@ -1,6 +1,6 @@
 Terrain Generation Bugged
   Terrain generation might be bugged in Turbowarp
-  Unable to fix, Uncommon
+  Fixed - Overlapping tile detectors in Turbowarp
 Terrain Generation Bugged
   If the green flag isn't double-clicked, terrain generation might be bugged
   Fixed - The creation of the terrain was only for one tile
