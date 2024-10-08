@@ -3,4 +3,4 @@ I've decided to redo the game in another engine I made, this one using better me
 It should be faster, with better graphics, and able to run on Scratch.
 
 You can find the current version of the game here - scratch.mit.edu/projects/934570407
-And you can find the V2 engine here - scratch.mit.edu/projects/1069052172
+and you can find the V2 engine here - scratch.mit.edu/projects/1069052172
