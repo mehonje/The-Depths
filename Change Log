@@ -1,52 +1,53 @@
 V1 Engine Devlopment - August 19, 2023-September 16, 2024 
-10/12/23, 23.44.1, Made the procedural generation more accurate, added kelp and chains
-15/12/23, 23.49.1, Added chains to generation, added text engine, made the procedural generation better
-16/12/23, 23.50.1, added more chain textures, added pause button, added menu and song skip button, made the font of the text engine vector and not bitmap, added mob spawning
-18/12/23, 23.50.2, added hydrothermal vents
-19/12/23, 23.50.3, added stalactites, added stalactite falling
-3/1/24, 24.1.1, added outpost structure into generation
-4/1/24, 24.1.2, added experimental lighting, animated the kelp tiles, fixed collision and generation bugs, fixed hydrothermal vent generation
-7/1/24, 24.1.3, added player animation
-14/1/24, 24.2.1, added enemy sounds, added underwater loop
-8/2/24, 24.5.1, removed enemy spawning to make testing easier, started working on new structures, added rock background, added another hydrothermal vent design
-9/2/24, 24.5.2, fixed kelp generation so kelp doesn't go through terrain, removed some tiles, added more lighting, fixed some scripts that were running twice, added generation of some experimental structures
-10/2/24, 24.5.3, added option to pause sounds, replaced the enemies roar with 2 new sounds, added textures and animation to the bioluminescence 
-11/2/24, 24.6.1, replaced the text engine with one of my design, changed to gui, added inventory, the player can hold the flashlight item to have more light, added waypoints, the player has to hold the gps item to see the waypoints, started working on mobile controls
-12/2/24, 24.6.2, finished mobile controls, made the procedural generation much more exact
-14/2/24, 24.6.3, added inventory and crafting, added quartz to generation
-18/2/24, 24.7.1, started working on an oxygen system, added spawn
-22/2/24, 24.7.2, player respawns after they run out of health
-26/2/24, 24.8.1, added death screen when player dies, fixed bugs with jellyfish
-1/3/24, 24.8.2, started using stamping in the text engine instead of clones to lower the amount of clones used, the quality of text is lower but I can now have more than 10 clones not used in the text engine
-13/3/24, 24.10.1, started working on the plot and new world generation
-20/3/24, 24.11.1, removed mobile controls to focus on the main bugs and features I need to fix/add, and to free up storage space
-21/3/24, 24.11.2, redesigned the GUI
-22/3/24, 24.11.3, made some performance improvements
-29/3/24, 24.12.1, changed the time between songs from 1 minute to 15-30 seconds, fixed a bug with going back to the last song, redid the light engine to have lighter areas, started working on fish
-30/3/24, 24.12.2, changed the spawn point to the top layer, added the ability to switch oxygen tanks with w key, lowered the maximum oxygen amount
-31/3/24, 24.12.3, added fish, updated thumbnail
-1/4/24, 24.13.1, connected the ocean to the cave, added 2 new songs
-1/4/24, 24.13.2, updated the thumbnail, added new generation, started working on spikefish
-3/4/24, 24.13.3, changed some art and replaced 3 songs, started working on spikefish ai
-4/4/24, 24.13.4, finished spikefish ai, got art for spikefish, added better shadows, started working on other hostile creatures
-5/4/24, 24.14.6, finished spikefins, fixed a bug in spikefish generation
-8/4/24, 24.14.1, added blood, changed spikefin art
-9/4/24, 24.14.2, redesigned the GUI, started working on player customization, placing beacons is much easier, increased health from 5 to 60
-11/4/24, 24.14.3, finished player customization, added shells
-12/4/24, 24.14.4, added submarine
-22/4/24, 24.16.1, got my friend to make some music, added main menu, changed the thumbnail
-23/4/24, 24.16.2, updated the pause menu
-24/4/24, 24.16.3, added more buttons to the main menu, 'Ancient Artifact2' is now 'Ancient Artifact', fixed a bug in going back to the next song, replaced the water tile with a realistic one, bubbles now pop where the air starts instead where the water tile starts, fixed a bug where the amount of oxygen you have is doubled
-29/4/24, 24.17.1, changed oxygen system, started working on making looped songs work
-4/5/24, 24.17.2, added sand tileset, replaced most rock tiles with corresponding sand tiles, fixed a bug causing you to spawn in rock
-14/7/24, 24.27.1, started updating the fish ai
-9/5/24, 24.18.2, added some inventory features, like inventory sorting
-27/5/24, 24.21.1, fixed some bugs causing extreme lag, worked on making entity creation easier
-28/5/24, 24.21.2, changed some scripts for the GUI to make the rendering smoother, changed the script for the bubbles to run faster
-14/7/24, 24.27.1, started updating the fish ai
+10/12/23, v23.44.1, Made the procedural generation more accurate, added kelp and chains
+15/12/23, v23.49.1, Added chains to generation, added text engine, made the procedural generation better
+16/12/23, v23.50.1, added more chain textures, added pause button, added menu and song skip button, made the font of the text engine vector and not bitmap, added mob spawning
+18/12/23, v23.50.2, added hydrothermal vents
+19/12/23, v23.50.3, added stalactites, added stalactite falling
+3/1/24, v24.1.1, added outpost structure into generation
+4/1/24, v24.1.2, added experimental lighting, animated the kelp tiles, fixed collision and generation bugs, fixed hydrothermal vent generation
+7/1/24, v24.1.3, added player animation
+14/1/24, v24.2.1, added enemy sounds, added underwater loop
+8/2/24, v24.5.1, removed enemy spawning to make testing easier, started working on new structures, added rock background, added another hydrothermal vent design
+9/2/24, v24.5.2, fixed kelp generation so kelp doesn't go through terrain, removed some tiles, added more lighting, fixed some scripts that were running twice, added generation of some experimental structures
+10/2/24, v24.5.3, added option to pause sounds, replaced the enemies roar with 2 new sounds, added textures and animation to the bioluminescence 
+11/2/24, v24.6.1, replaced the text engine with one of my design, changed to gui, added inventory, the player can hold the flashlight item to have more light, added waypoints, the player has to hold the gps item to see the waypoints, started working on mobile controls
+12/2/24, v24.6.2, finished mobile controls, made the procedural generation much more exact
+14/2/24, v24.6.3, added inventory and crafting, added quartz to generation
+18/2/24, v24.7.1, started working on an oxygen system, added spawn
+22/2/24, v24.7.2, player respawns after they run out of health
+26/2/24, v24.8.1, added death screen when player dies, fixed bugs with jellyfish
+1/3/24, v24.8.2, started using stamping in the text engine instead of clones to lower the amount of clones used, the quality of text is lower but I can now have more than 10 clones not used in the text engine
+13/3/24, v24.10.1, started working on the plot and new world generation
+20/3/24, v24.11.1, removed mobile controls to focus on the main bugs and features I need to fix/add, and to free up storage space
+21/3/24, v24.11.2, redesigned the GUI
+22/3/24, v24.11.3, made some performance improvements
+29/3/24, v24.12.1, changed the time between songs from 1 minute to 15-30 seconds, fixed a bug with going back to the last song, redid the light engine to have lighter areas, started working on fish
+30/3/24, v24.12.2, changed the spawn point to the top layer, added the ability to switch oxygen tanks with w key, lowered the maximum oxygen amount
+31/3/24, v24.12.3, added fish, updated thumbnail
+1/4/24, v24.13.1, connected the ocean to the cave, added 2 new songs
+1/4/24, v24.13.2, updated the thumbnail, added new generation, started working on spikefish
+3/4/24, v24.13.3, changed some art and replaced 3 songs, started working on spikefish ai
+4/4/24, v24.13.4, finished spikefish ai, got art for spikefish, added better shadows, started working on other hostile creatures
+5/4/24, v24.14.6, finished spikefins, fixed a bug in spikefish generation
+8/4/24, v24.14.1, added blood, changed spikefin art
+9/4/24, v24.14.2, redesigned the GUI, started working on player customization, placing beacons is much easier, increased health from 5 to 60
+11/4/24, v24.14.3, finished player customization, added shells
+12/4/24, v24.14.4, added submarine
+22/4/24, v24.16.1, got my friend to make some music, added main menu, changed the thumbnail
+23/4/24, v24.16.2, updated the pause menu
+24/4/24, v24.16.3, added more buttons to the main menu, 'Ancient Artifact2' is now 'Ancient Artifact', fixed a bug in going back to the next song, replaced the water tile with a realistic one, bubbles now pop where the air starts instead where the water tile starts, fixed a bug where the amount of oxygen you have is doubled
+29/4/24, v24.17.1, changed oxygen system, started working on making looped songs work
+4/5/24, v24.17.2, added sand tileset, replaced most rock tiles with corresponding sand tiles, fixed a bug causing you to spawn in rock
+14/7/24, v24.27.1, started updating the fish ai
+9/5/24, v24.18.2, added some inventory features, like inventory sorting
+27/5/24, v24.21.1, fixed some bugs causing extreme lag, worked on making entity creation easier
+28/5/24, v24.21.2, changed some scripts for the GUI to make the rendering smoother, changed the script for the bubbles to run faster
+14/7/24, v24.27.1, started updating the fish ai
 
 V2 Engine Development - September 16, 2024-Present
 
-16/9/24, 24.37.1, started working on v2 engine
-18/9/24, 24.37.1, added collision to v2 engine
-25/9/24, 24.38.1, added 1 layer to editor, added oxygen and health
+16/9/24, v24.37.1, started working on v2 engine
+18/9/24, v24.37.1, added collision to v2 engine
+25/9/24, v24.38.1, added 1 layer to editor, added oxygen and health
+7/10/24, v24.40.1, added audio engine, added music engine, added 1 layer to editor shifted layers player collides with, added delta time to movement and oxygen loss
