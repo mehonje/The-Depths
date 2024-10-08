@@ -1,4 +1,4 @@
-V1 Engine Devlopment - August 19, 2023-September 16, 2024 
+V1 Engine Development - August 19, 2023-September 16, 2024 
 10/12/23, v23.44.1, Made the procedural generation more accurate, added kelp and chains
 15/12/23, v23.49.1, Added chains to generation, added text engine, made the procedural generation better
 16/12/23, v23.50.1, added more chain textures, added pause button, added menu and song skip button, made the font of the text engine vector and not bitmap, added mob spawning
@@ -36,7 +36,7 @@ V1 Engine Devlopment - August 19, 2023-September 16, 2024
 12/4/24, v24.14.4, added submarine
 22/4/24, v24.16.1, got my friend to make some music, added main menu, changed the thumbnail
 23/4/24, v24.16.2, updated the pause menu
-24/4/24, v24.16.3, added more buttons to the main menu, 'Ancient Artifact2' is now 'Ancient Artifact', fixed a bug in going back to the next song, replaced the water tile with a realistic one, bubbles now pop where the air starts instead where the water tile starts, fixed a bug where the amount of oxygen you have is doubled
+24/4/24, v24.16.3, added more buttons to the main menu, 'Ancient Artefact2' is now 'Ancient Artefact', fixed a bug in going back to the next song, replaced the water tile with a realistic one, bubbles now pop where the air starts instead where the water tile starts, fixed a bug where the amount of oxygen you have is doubled
 29/4/24, v24.17.1, changed oxygen system, started working on making looped songs work
 4/5/24, v24.17.2, added sand tileset, replaced most rock tiles with corresponding sand tiles, fixed a bug causing you to spawn in rock
 14/7/24, v24.27.1, started updating the fish ai
