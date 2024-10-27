@@ -52,3 +52,4 @@ V2 Engine Development - September 16, 2024-Present
 25/9/24, v2.24.38.1, added 1 layer to editor, added oxygen and health
 7/10/24, v2.24.40.1, added audio engine, added music engine, added 1 layer to editor shifted layers player collides with, added delta time to movement and oxygen loss
 24/10/24, v2.24.42.1, added menu, added volume option
+26/10/24, v2.24.42.2, updated the player animation, updated the map, added looping to music engine
