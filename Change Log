@@ -54,3 +54,7 @@ V2 Engine Development - September 16, 2024-Present
 24/10/24, v2.24.42.1, added menu, added volume option
 26/10/24, v2.24.42.2, updated the player animation, updated the map, added looping to music engine
 29/11/24, v2.24.47.1 updated the music engine, added songs that switch when the player's y-position goes past a certain point, added looping to music engine
+  Switching to a new format
+13/12/24, v2.24.49.1
+  Metadata
+    Updated the metadata engine, so that instead of metadata values being in set positions, the value is stored as name:value and modular
