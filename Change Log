@@ -45,7 +45,7 @@ V1 Engine Development - August 19, 2023-September 16, 2024
 28/5/24, v1.24.21.2, changed some scripts for the GUI to make the rendering smoother, changed the script for the bubbles to run faster
 14/7/24, v1.24.27.1, started updating the fish ai
 
-V2 Engine Development - September 16, 2024-Present
+V2 Engine Development - September 16, 2024-December 31, 2024
 
 16/9/24, v2.24.37.1, started working on v2 engine
 18/9/24, v2.24.37.1, added collision to v2 engine
@@ -58,3 +58,7 @@ V2 Engine Development - September 16, 2024-Present
 13/12/24, v2.24.49.1
   Metadata
     Updated the metadata engine, so that instead of metadata values being in set positions, the value is stored as name:value and modular
+
+V3 Engine Development - December 31, 2024-Present
+
+31/12/24, v3.0.0, started working on v3 engine
