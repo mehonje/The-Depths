@@ -62,3 +62,8 @@ V2 Engine Development - September 16, 2024-December 31, 2024
 V3 Engine Development - December 31, 2024-Present
 
 31/12/24, v3.0.0, started working on v3 engine
+1/1/25, v3.1.0 
+  World 
+    Changed how the world is drawn from a 17x13 grid of 32x32 tiles to a 3x3 grid of 480x360 chunks 
+  Art
+    Added art for the player
