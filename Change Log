@@ -70,3 +70,6 @@ V3 Engine Development - December 31, 2024-Present
 2/1/25, v3.2.0
   Engines
     Changed how collision works from a 3x3 grid of preset tile pins to line collisions
+10/1/25, v3.2.0
+  Engines
+    Started working on a new save code format and engine
