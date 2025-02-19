@@ -73,3 +73,15 @@ V3 Engine Development - December 31, 2024-Present
 10/1/25, v3.2.0
   Engines
     Started working on a new save code format and engine
+18/2/25, v3.2.1
+  Art
+    Added an idle player animation
+  Music
+    Added music
+  World Engine
+    Added song variable
+      When the song variable changes (when you change chunks to a chunk with a different song), the song fades out and changes to the new song
+  Light Engine
+    Added a basic light that follows the mouse
+  UI
+    Added a pause menu with a music volume option
