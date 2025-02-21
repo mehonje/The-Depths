@@ -62,18 +62,18 @@ V2 Engine Development - September 16, 2024-December 31, 2024
 V3 Engine Development - December 31, 2024-Present
 
 31/12/24, v3.0.0, started working on v3 engine
-1/1/25, v3.1.0 
+1/1/25, v3.0.1 
   World 
     Changed how the world is drawn from a 17x13 grid of 32x32 tiles to a 3x3 grid of 480x360 chunks 
   Art
     Added art for the player
-2/1/25, v3.2.0
+2/1/25, v3.0.2
   Engines
     Changed how collision works from a 3x3 grid of preset tile pins to line collisions
-10/1/25, v3.2.0
+10/1/25, v3.0.3
   Engines
     Started working on a new save code format and engine
-18/2/25, v3.2.1
+18/2/25, v3.0.4
   Art
     Added an idle player animation
   Music
@@ -85,3 +85,13 @@ V3 Engine Development - December 31, 2024-Present
     Added a basic light that follows the mouse
   UI
     Added a pause menu with a music volume option
+21/2/2025, v3.0.5
+  Light Engine
+    Added god rays and another layer of shadows, this one tile-based
+  World Engine
+    Replaced the world chunks with tile-based costumes
+  Collision Engine
+    Replaced all the collision lines with collision lines for the new chunks
+    Shortened the players collision line to allow the player's head to pass above the waterline
+  Miscellaneous
+    Created a world builder to make tile-based costumes for the chunk-based engine.
