@@ -95,3 +95,11 @@ V3 Engine Development - December 31, 2024-Present
     Shortened the players collision line to allow the player's head to pass above the waterline
   Miscellaneous
     Created a world builder to make tile-based costumes for the chunk-based engine.
+24/2/2025, v3.0.6
+  Collision Engine
+    Added collision lines to chunks 12 and 17
+    Experimented with chunk-based collision separation
+    Removed the collision check for rotation to stop the player from getting stuck inside lines
+    Replaced the collision line with a shorter line from where the player is to where it will be
+  Miscellaneous
+    Added chunk borders in the editor and debug menus
