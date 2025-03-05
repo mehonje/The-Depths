@@ -103,3 +103,8 @@ V3 Engine Development - December 31, 2024-Present
     Replaced the collision line with a shorter line from where the player is to where it will be
   Miscellaneous
     Added chunk borders in the editor and debug menus
+v3.0.7, 4/3/2025, 1253 blocks
+  Collision Engine
+    Replaced the equations that define the player's collision line, removing around 100 blocks
+  UI
+    Added a transparent background in the menu
