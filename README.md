@@ -1,4 +1,4 @@
-This is a game I'm making in Scratch. it's an underwater game, like Subnautica, but 2D.
+This is a game I'm making in Scratch. It's an underwater game, like Subnautica, but 2D.
 
 I've redone the game in another engine I made, this one using better metadata engine. It's faster, with better graphics, and able to run on Scratch.
 I'm working on a v3 engine, this one with line collision, and higher resolution maps.
