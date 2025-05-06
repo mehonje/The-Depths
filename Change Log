@@ -108,3 +108,14 @@ v3.0.7, 4/3/2025, 1253 blocks
     Replaced the equations that define the player's collision line, removing around 100 blocks
   UI
     Added a transparent background in the menu
+v3.0.8, 5/5/2025, 1320 blocks
+  Player
+    Created the "PLAYER OXYGEN" variable and the "update oxygen" function, lines with the value "1" as their 5th metadata value refill "PLAYER OXYGEN" at 1 per tick
+  Collision Lines
+    Added a 5th metadata value for collision lines, not impacting existing lines, and used by the oxygen system
+  Objects
+    Created the "Objects" sprite
+    Objects can be any costume, anywhere on the map, pointing any direction, and can animate with a given fps
+  UI
+    Added the oxygen meter
+    Removed the menu to start working on new menus
