@@ -119,3 +119,10 @@ v3.0.8, 5/5/2025, 1320 blocks
   UI
     Added the oxygen meter
     Removed the menu to start working on new menus
+v3.0.9, 6/5/2025, 1288 blocks
+  Player
+    Made the player die when "PLAYER OXYGEN" reaches 0
+  Objects
+    Removed kelp costumes
+    Added seagrass costumes
+    Added the "size" metadata value
