@@ -126,3 +126,9 @@ v3.0.9, 6/5/2025, 1288 blocks
     Removed kelp costumes
     Added seagrass costumes
     Added the "size" metadata value
+v3.0.10, 6/15/2025
+  Particles
+    Created the "Particles" sprite
+    Particles are like objects, except they can be moved, and cannot animate
+  UI
+    Changed the oxygen meter's thickness to look more like the v2 version
